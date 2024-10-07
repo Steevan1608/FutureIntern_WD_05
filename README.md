@@ -1,4 +1,4 @@
-**TO-DO list**
+**TO-DO LIST**
 
 
 How It Works Adding Tasks: The user types a task into the input field and clicks the "Add Task" button.
